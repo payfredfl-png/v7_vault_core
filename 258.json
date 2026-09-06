@@ -1,0 +1,12 @@
+{
+  "name": "Project 258 - Supreme Anchor",
+  "description": "MK-Fredys-9F256BFCADE45BE-VJQC-SUPREME-ANCHOR-QRC",
+  "image_url": "https://raw.githubusercontent.com/payfredfl-png/metamask-mobile/main/logo.png",
+  "website": "https://github.com/Fredys-Leonso/v7_vault_core",
+  "attributes": {
+    "architect": "FMLP",
+    "version": "7.0.0",
+    "network": "Sonic Mainnet",
+    "project_id": "258"
+  }
+}
